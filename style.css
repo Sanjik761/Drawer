@@ -67,3 +67,7 @@ body {
   height: 60px;
   line-height: 60px;
 }
+
+.container .navigation ul li:hover {
+  background-color: #efefef;
+}
